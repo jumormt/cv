@@ -80,17 +80,17 @@ publications:
     intro: |
       Here are my publications during my master degree:
     papers:
-      - title: Static Detection of Control-Flow-Related Vulnerabilities Using Graph Embedding
+      - title: (CORE-A) Static Detection of Control-Flow-Related Vulnerabilities Using Graph Embedding
         link: "https://ieeexplore.ieee.org/document/8882745"
         authors: Xiao Cheng, Haoyu Wang, Jiayi Hua, Miao Zhang, Guoai Xu, Li Yi, Yulei Sui
         conference: ICECCS, 2019
 
-      - title: "(accepted) Flow2Vec: Value-Flow-Based Precise Code Embedding"
+      - title: "(CORE-A*, CCF-A, accepted) Flow2Vec: Value-Flow-Based Precise Code Embedding"
         link: "https://2020.splashcon.org/details/splash-2020-oopsla/109/Flow2Vec-Value-Flow-Based-Precise-Code-Embedding"
         authors: Yulei Sui, Xiao Cheng, Guanqin Zhang, Haoyu Wang
         conference: OOPSLA, 2020
 
-      - title: "(to appear) Statically Detecting Software Vulnerabilities using Deep Graph Neural Networks"
+      - title: "(CCF-A, to appear) Statically Detecting Software Vulnerabilities using Deep Graph Neural Networks"
         link: "#"
         authors: Xiao Cheng, Haoyu Wang, Jiayi Hua, Guoai Xu, Yulei Sui
         conference: TOSEM
