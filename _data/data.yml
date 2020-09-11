@@ -146,7 +146,7 @@ publications:
       - title: Static Detection of Control-Flow-Related Vulnerabilities Using Graph Embedding
         link: "https://ieeexplore.ieee.org/document/8882745"
         authors: Xiao Cheng, Haoyu Wang, Jiayi Hua, Miao Zhang, Guoai Xu, Li Yi, Yulei Sui
-        conference: [ICECCS, 2019](https://www.formal-analysis.com/iceccs/2019/)
+        conference: [ICECCS2019](https://www.formal-analysis.com/iceccs/2019/)
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
