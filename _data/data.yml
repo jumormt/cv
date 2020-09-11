@@ -142,7 +142,7 @@ education:
 publications:
     title: Publications
     intro: |
-        Here are my publications during master:
+      Here are my publications:
     papers:
       - title: "(accepted) Flow2Vec: Value-Flow-Based Precise Code Embedding"
         link: "https://2020.splashcon.org/details/splash-2020-oopsla/109/Flow2Vec-Value-Flow-Based-Precise-Code-Embedding"
