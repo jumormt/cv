@@ -138,26 +138,28 @@ education:
 #       - title: Delta
 #         link: "#"
 #         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 publications:
     title: Publications
     intro: |
-      Here are my publications:
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
     papers:
-      - title: "(accepted) Flow2Vec: Value-Flow-Based Precise Code Embedding"
-        link: "https://2020.splashcon.org/details/splash-2020-oopsla/109/Flow2Vec-Value-Flow-Based-Precise-Code-Embedding"
-        authors: Yulei Sui, Xiao Cheng, Guanqin Zhang, Haoyu Wang
-        conference: [OOPSLA, 2020](https://2020.splashcon.org/track/splash-2020-oopsla)
-
-      - title: "Static Detection of Control-Flow-Related Vulnerabilities Using Graph Embedding"
-        link: "https://ieeexplore.ieee.org/document/8882745"
-        authors: Xiao Cheng, Haoyu Wang, Jiayi Hua, Miao Zhang, Guoai Xu, Li Yi, Yulei Sui
-        conference: [ICECCS, 2019](https://www.formal-analysis.com/iceccs/2019/)
-
-      - title: "(to appear) Statically Detecting Software Vulnerabilities using Deep Graph Neural Networks"
+      - title: The Art of Computer Programming
         link: "#"
-        authors: Xiao Cheng, Haoyu Wang, Jiayi Hua, Guoai Xu, Yulei Sui
-        conference: [TOSEM](https://dl.acm.org/journal/tosem)
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
 
 # skills:
 #     title: Skills &amp; Proficiency
