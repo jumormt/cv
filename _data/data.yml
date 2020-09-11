@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -46,7 +46,11 @@ sidebar:
 career-profile:
     title: Basic Profile
     summary: |
-      I am a PhD student of [Programming Languages and Software Engineering](http://handbook.uts.edu.au/subjects/33874.html) at [School of Computer Science](https://www.uts.edu.au/about/faculty-engineering-and-information-technology/computer-science), [University of Technology Sydney](https://www.uts.edu.au/), supervised by [Yulei Sui](https://yuleisui.github.io/). My research interest includes Program Analysis, Software Security and application of Machine Learning in the above fields.
+      -	Bachelor and Research Master in Beijing University of Posts and Telecommunications offering a strong academic background in IT.
+      - Accepted paper on A*- and A-ranked international conferences by the CORE2020 ranking.
+      - Excellent academic projects experiences in the field of software development, especially for bug detection, software analysis, machine learning and technical industries.
+      - Strong grasp of technologies (C/C++, Java, MySQL, Python) and some general algorithm.
+
 education:
     - degree: MSc in Computer Science
       university: Beijing University of Posts and Telecommunications
