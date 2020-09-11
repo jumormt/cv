@@ -148,15 +148,15 @@ publications:
         authors: Xiao Cheng, Haoyu Wang, Jiayi Hua, Miao Zhang, Guoai Xu, Li Yi, Yulei Sui
         conference: ICECCS, 2019
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "(accepted) Flow2Vec: Value-Flow-Based Precise Code Embedding"
+        link: "https://2020.splashcon.org/details/splash-2020-oopsla/109/Flow2Vec-Value-Flow-Based-Precise-Code-Embedding"
+        authors: Yulei Sui, Xiao Cheng, Guanqin Zhang, Haoyu Wang
+        conference: OOPSLA, 2020
 
-      - title: A syntax directed compiler for Algol 60
+      - title: "(to appear) Statically Detecting Software Vulnerabilities using Deep Graph Neural Networks"
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Xiao Cheng, Haoyu Wang, Jiayi Hua, Guoai Xu, Yulei Sui
+        conference: TOSEM
 
 
 # skills:
