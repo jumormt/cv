@@ -141,14 +141,12 @@ education:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Here are my publications during my master degree:
     papers:
-      - title: The Art of Computer Programming
+      - title: "(accepted) Flow2Vec: Value-Flow-Based Precise Code Embedding"
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Yulei Sui, Xiao Cheng, Guanqin Zhang, Haoyu Wang
+        conference: [OOPSLA, 2020](https://2020.splashcon.org/track/splash-2020-oopsla)
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
