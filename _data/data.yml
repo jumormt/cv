@@ -7,8 +7,8 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Xiao Cheng
+    tagline: PhD student of Programming Languages and Software Engineering University of Technology Sydney
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -34,10 +34,10 @@ sidebar:
 
 
     interests:
-      - item: Climbing
+      - item: Programming
         link:
 
-      - item: Snowboarding
+      - item: Basketball
         link:
 
       - item: Cooking
@@ -46,12 +46,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a PhD student of [Programming Languages and Software Engineering](http://handbook.uts.edu.au/subjects/33874.html) at [School of Computer Science](https://www.uts.edu.au/about/faculty-engineering-and-information-technology/computer-science), [University of Technology Sydney](https://www.uts.edu.au/), supervised by [Yulei Sui](https://yuleisui.github.io/). My research interest includes Program Analysis, Software Security and application of Machine Learning in the above fields. 
 education:
     - degree: MSc in Computer Science
       university: University of London
