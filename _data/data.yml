@@ -47,7 +47,7 @@ career-profile:
     title: Basic Profile
     summary: |
       -	Bachelor and Research Master in Beijing University of Posts and Telecommunications offering a strong academic background in IT.
-      - Accepted paper on A*- and A-ranked international conferences by the CORE2020 ranking.
+      - Accepted paper on A*- and A-ranked international conferences by the [CORE2020 ranking](https://www.core.edu.au/conference-portal).
       - Excellent academic projects experiences in the field of software development, especially for bug detection, software analysis, machine learning and technical industries.
       - Strong grasp of technologies (C/C++, Java, MySQL, Python) and some general algorithm.
 
@@ -142,14 +142,12 @@ education:
 publications:
     title: Publications
     intro: |
-      # You can list your publications in this section. Lorem ipsum dolor sit
-      # amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      # bibendum fringilla a eu lectus.
+
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Flow2Vec: Value-Flow-Based Precise Code Embedding"
+        link: "https://2020.splashcon.org/details/splash-2020-oopsla/109/Flow2Vec-Value-Flow-Based-Precise-Code-Embedding"
+        authors: Yulei Sui, Xiao Cheng, Guanqin Zhang, Haoyu Wang
+        conference: [OOPSLA, 2020](https://2020.splashcon.org/track/splash-2020-oopsla)
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
