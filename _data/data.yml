@@ -53,12 +53,12 @@ career-profile:
       - Strong grasp of technologies (C/C++, Java, MySQL, Python) and some general algorithm.
 
 education:
-    - degree: MSc in Computer Science
+    - degree: Research Master in Computer Science
       university: Beijing University of Posts and Telecommunications
       time: # 2011 - 2012
       details: |
         - Overall GPA: 85.7/100.0 (ranking within top 10%)
-    - degree: BSc in Telecommunication Engineering
+    - degree: Bachelor in Telecommunication Engineering
       university: Beijing University of Posts and Telecommunications
       time: # 2007 - 2011
       details: |
@@ -69,7 +69,7 @@ education:
 publications:
     title: Publications
     intro: |
-      Here are my publications during my master degree:
+
     papers:
       - title: (CORE-A) Static Detection of Control-Flow-Related Vulnerabilities Using Graph Embedding
         link: "https://ieeexplore.ieee.org/document/8882745"
@@ -97,16 +97,21 @@ experiences:
       company: # Google, London
       details: |
         Collaborated with a team of 6 peers to design and build a software analyzing and bug detecting system which has a high level of stability and efficiency. In charge of designing the analyzing and detecting engine part.
+     - role: Lead Developer
+      time: 9/2018 – 9/2019
+      company: # Google, London
+      details: |
+        Led a team of 6 peers to develop a vulnerability detecting system which can tackle high-level control-flow related (CFR) vulnerabilities, such as insufficient control flow management (CWE-691), business logic errors (CWE-840), and program behavioral problems (CWE-438). Wrote the paper: (ICECCS’19, CORE-A) Static Detection of Control-Flow-Related Vulnerabilities Using Graph Embedding.
     - role: Co-developer
       time: 12/2019 – 5/2020
       company: # Amazon, London
       details: |
-        Collaborated with a team of 4 peers to present a new code embedding approach that precisely preserves interprocedural program dependence, which successfully boosts the performance of two recent code embedding approaches code2vec and code2seq for two client applications, i.e., code classification and code summarization.
+        Collaborated with a team of 4 peers to present a new code embedding approach that precisely preserves interprocedural program dependence, which successfully boosts the performance of two recent code embedding approaches code2vec and code2seq for two client applications, i.e., code classification and code summarization. Wrote the paper: (OOPSLA’20, CORE-A*, to appear) Flow2Vec: Value-Flow-Based Precise Code Embedding.
     - role: Lead Developer
       time: 9/2019 - 9/2020
       company: # Amazon, London
       details: |
-        Led a 6-person team to develop a new deep-learning-based embedding approach to static detection of software vulnerabilities for C/C++ programs by leveraging advanced recent neural networks to embed code fragments in a compact representation that preserves high-level programming logic.
+        Led a 6-person team to develop a new deep-learning-based embedding approach to static detection of software vulnerabilities for C/C++ programs by leveraging advanced recent neural networks to embed code fragments in a compact representation that preserves high-level programming logic. Wrote the paper: (TOSEM’20, CCF-A, to appear) Statically Detecting Software Vulnerabilities using Deep Graph Neural Networks.
 # projects:
 #     title: Projects
 #     intro: >
