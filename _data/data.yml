@@ -70,7 +70,7 @@ education:
 publications:
     title: Publications
     intro: |
-
+      Here are my publications during master:
     papers:
       - title: (CORE-A) Static Detection of Control-Flow-Related Vulnerabilities Using Graph Embedding
         link: "https://ieeexplore.ieee.org/document/8882745"
