@@ -31,6 +31,12 @@
     </li>
     {% endif %}
 
+    {% if sidebar.csdn %}
+    <li class="bitbucket"><i class="fab fa-bitbucket"></i>
+      <a href="https://blog.csdn.net/{{ sidebar.csdn }}" target="_blank">{{ sidebar.csdn }}</a>
+    </li>
+    {% endif %}
+
     {% if sidebar.github %}
     <li class="github"><i class="fab fa-github"></i>
       <a href="http://github.com/{{ sidebar.github }}" target="_blank">{{ sidebar.github }}</a>
