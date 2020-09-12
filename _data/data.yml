@@ -99,9 +99,9 @@ experiences:
       details: |
         Collaborated with a team of 6 peers to design and build a software analyzing and bug detecting system which has a high level of stability and efficiency. In charge of designing the analyzing and detecting engine part.
      - role: Lead Developer
-      time: 9/2018 – 9/2019
-      company: # Google, London
-      details: |
+       time: 9/2018 – 9/2019
+       company: # Google, London
+       details: |
         Led a team of 6 peers to develop a vulnerability detecting system which can tackle high-level control-flow related (CFR) vulnerabilities, such as insufficient control flow management (CWE-691), business logic errors (CWE-840), and program behavioral problems (CWE-438). Wrote the paper: (ICECCS’19, CORE-A) Static Detection of Control-Flow-Related Vulnerabilities Using Graph Embedding.
     - role: Co-developer
       time: 12/2019 – 5/2020
