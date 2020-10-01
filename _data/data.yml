@@ -85,7 +85,7 @@ publications:
         authors: Yulei Sui, Xiao Cheng, Guanqin Zhang, Haoyu Wang
         conference: OOPSLA, 2020
 
-      - title: "(CCF-A, to appear) Statically Detecting Software Vulnerabilities using Deep Graph Neural Networks"
+      - title: "(CORE-A*, CCF-A, to appear) Statically Detecting Software Vulnerabilities using Deep Graph Neural Networks"
         link: "#"
         authors: Xiao Cheng, Haoyu Wang, Jiayi Hua, Guoai Xu, Yulei Sui
         conference: TOSEM
@@ -115,7 +115,7 @@ experiences:
       time: 9/2019 - 9/2020
       company: # Amazon, London
       details: |
-        Led a 6-person team to develop a new deep-learning-based embedding approach to static detection of software vulnerabilities for C/C++ programs by leveraging advanced recent neural networks to embed code fragments in a compact representation that preserves high-level programming logic. Wrote the paper: (TOSEM’20, CCF-A, to appear) Statically Detecting Software Vulnerabilities using Deep Graph Neural Networks.
+        Led a 6-person team to develop a new deep-learning-based embedding approach to static detection of software vulnerabilities for C/C++ programs by leveraging advanced recent neural networks to embed code fragments in a compact representation that preserves high-level programming logic. Wrote the paper: (TOSEM’20, CORE-A*, CCF-A, to appear) Statically Detecting Software Vulnerabilities using Deep Graph Neural Networks.
 # projects:
 #     title: Projects
 #     intro: >
