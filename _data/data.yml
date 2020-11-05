@@ -78,7 +78,7 @@ publications:
       - title: "(CORE-A*, CCF-A, to appear) Statically Detecting Software Vulnerabilities using Deep Graph Neural Networks"
         link: "#"
         authors: Xiao Cheng, Haoyu Wang, Jiayi Hua, Guoai Xu, Yulei Sui
-        conference: TOSEM
+        conference: TOSEM, 2020
       - title: "(CORE-A*, CCF-A) Flow2Vec: Value-Flow-Based Precise Code Embedding"
         link: "https://2020.splashcon.org/details/splash-2020-oopsla/109/Flow2Vec-Value-Flow-Based-Precise-Code-Embedding"
         authors: Yulei Sui, Xiao Cheng, Guanqin Zhang, Haoyu Wang
